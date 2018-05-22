@@ -1,5 +1,5 @@
 {
-  "name": "Eat_da-burger",
+  "name": "Eat_da_burger",
   "version": "1.0.0",
   "description": "Eat Da Burger!\r A Burger Eatin' Application With Node.js/Express/MySQL/Handlebars/Materialize",
   "main": "server.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JasonOHiggins/Eat_da-burger.git"
+    "url": "git+https://github.com/JasonOHiggins/Eat_da_burger.git"
   },
   "keywords": [],
   "author": "Jason O'Higgins",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JasonOHiggins/Eat_da-burger/issues"
+    "url": "https://github.com/JasonOHiggins/Eat_da_burger/issues"
   },
-  "homepage": "https://github.com/JasonOHiggins/Eat_da-burger#readme",
+  "homepage": "https://github.com/JasonOHiggins/Eat_da_burger#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
